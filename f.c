@@ -8,7 +8,8 @@
 
 int main()
 {
-   
+   rwtarsh
+   gxzh
    int CreateSocket , n=0,cnt=0,ClintConnt=0,a,b;
 
    char dataReceived[1024];
